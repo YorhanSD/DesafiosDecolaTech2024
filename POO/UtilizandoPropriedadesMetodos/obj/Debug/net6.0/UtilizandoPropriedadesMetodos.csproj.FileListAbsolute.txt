@@ -1,0 +1,15 @@
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.csproj.AssemblyReference.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.AssemblyInfoInputs.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.AssemblyInfo.cs
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.csproj.CoreCompileInputs.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\bin\Debug\net6.0\UtilizandoPropriedadesMetodos.exe
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\bin\Debug\net6.0\UtilizandoPropriedadesMetodos.deps.json
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\bin\Debug\net6.0\UtilizandoPropriedadesMetodos.runtimeconfig.json
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\bin\Debug\net6.0\UtilizandoPropriedadesMetodos.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\bin\Debug\net6.0\UtilizandoPropriedadesMetodos.pdb
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\refint\UtilizandoPropriedadesMetodos.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.pdb
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\UtilizandoPropriedadesMetodos.genruntimeconfig.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\UtilizandoPropriedadesMetodos\obj\Debug\net6.0\ref\UtilizandoPropriedadesMetodos.dll

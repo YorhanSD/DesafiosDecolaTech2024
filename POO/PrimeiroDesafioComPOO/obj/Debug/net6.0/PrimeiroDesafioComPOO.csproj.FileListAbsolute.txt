@@ -1,0 +1,15 @@
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\bin\Debug\net6.0\PrimeiroDesafioComPOO.exe
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\bin\Debug\net6.0\PrimeiroDesafioComPOO.deps.json
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\bin\Debug\net6.0\PrimeiroDesafioComPOO.runtimeconfig.json
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\bin\Debug\net6.0\PrimeiroDesafioComPOO.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\bin\Debug\net6.0\PrimeiroDesafioComPOO.pdb
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.csproj.AssemblyReference.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.AssemblyInfoInputs.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.AssemblyInfo.cs
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.csproj.CoreCompileInputs.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\refint\PrimeiroDesafioComPOO.dll
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.pdb
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\PrimeiroDesafioComPOO.genruntimeconfig.cache
+C:\Repositórios\DesafiosDecolaTech2024\POO\PrimeiroDesafioComPOO\obj\Debug\net6.0\ref\PrimeiroDesafioComPOO.dll
